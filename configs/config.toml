@@ -1,0 +1,4 @@
+ADDR = ":8080"
+MAX_FILES_PER_TASKS = 3
+MAX_ACTIVE_TASKS = 3
+ALLOWED_EXTENSIONS = [".pdf", ".jpg", ".jpeg"]
